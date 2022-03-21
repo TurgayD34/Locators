@@ -5,7 +5,7 @@ import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 
-public class testCase4 {
+public class TC004 {
     public static void main(String[] args) throws InterruptedException {
         /*
         1. Open Chrome browser
@@ -38,10 +38,6 @@ public class testCase4 {
         clickHomePage.click();
         Thread.sleep(3000);
 
-
-
-
-        
         driver.quit();
     }
 }

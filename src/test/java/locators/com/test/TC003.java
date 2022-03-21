@@ -1,12 +1,11 @@
 package locators.com.test;
 
-import com.google.common.base.Verify;
 import locators.com.utilities.WebDriverFactory;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 
-public class testCase3 {
+public class TC003 {
     public static void main(String[] args) throws InterruptedException {
 
         /*

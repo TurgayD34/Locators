@@ -5,7 +5,7 @@ import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 
-public class testCase1 {
+public class TC001 {
     public static void main(String[] args) throws InterruptedException {
         /*
          Go to Ebay
